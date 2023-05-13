@@ -1,6 +1,6 @@
 print(2 +  3 * 6)
 
-print([1,2,3] + ["w","rizz"])
+print([1,2,3] + ["4","5"])
 
 def factorial(num):
     ans = 1
